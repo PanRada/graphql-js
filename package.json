@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "main": "index",
-  "module": "index.mjs",
+  "module": "index.js",
   "typesVersions": {
     ">=4.1.0": {
       "*": [
